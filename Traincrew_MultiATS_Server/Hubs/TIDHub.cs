@@ -4,8 +4,11 @@ using OpenIddict.Validation.AspNetCore;
 using Traincrew_MultiATS_Server.Services;
 
 namespace Traincrew_MultiATS_Server.Hubs;
-// Todo: 司令員、乗務助役使用可
-[Authorize(AuthenticationSchemes = OpenIddictValidationAspNetCoreDefaults.AuthenticationScheme)]
+// 司令員、乗務助役使用可
+[Authorize(
+	AuthenticationSchemes = OpenIddictValidationAspNetCoreDefaults.AuthenticationScheme,
+	Policy = "TIDPolicy"
+)]
 public class TIDHub(TrackCircuitService trackCircuitService): Hub
 {
 	public async Task<List<TrackCircuitData>> SendData_TID()

@@ -6,7 +6,10 @@ using Traincrew_MultiATS_Server.Services;
 namespace Traincrew_MultiATS_Server.Hubs;
 
 // 運転士 or 車掌使用可能
-[Authorize(AuthenticationSchemes = OpenIddictValidationAspNetCoreDefaults.AuthenticationScheme)]
+[Authorize(
+    AuthenticationSchemes = OpenIddictValidationAspNetCoreDefaults.AuthenticationScheme,
+    Policy = "TrainPolicy"
+)]
 public class TrainHub(TrackCircuitService trackCircuitService) : Hub
 {
     public async Task<DataFromServer> SendData_ATS(DataToServer clientData)
