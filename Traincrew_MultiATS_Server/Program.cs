@@ -18,6 +18,7 @@ using Traincrew_MultiATS_Server.Repositories.InterlockingObject;
 using Traincrew_MultiATS_Server.Repositories.LockCondition;
 using Traincrew_MultiATS_Server.Repositories.NextSignal;
 using Traincrew_MultiATS_Server.Repositories.Signal;
+using Traincrew_MultiATS_Server.Repositories.Protection;
 using Traincrew_MultiATS_Server.Repositories.Station;
 using Traincrew_MultiATS_Server.Repositories.TrackCircuit;
 using Traincrew_MultiATS_Server.Services;
@@ -234,8 +235,10 @@ builder.Services
     .AddScoped<ITrackCircuitRepository, TrackCircuitRepository>()
     .AddScoped<ISignalRepository, SignalRepository>()
     .AddScoped<INextSignalRepository, NextSignalRepository>()
+    .AddScoped<IProtectionRepository, ProtectionRepository>()
     .AddScoped<StationService>()
     .AddScoped<TrackCircuitService>()
+    .AddScoped<ProtectionService>()
     .AddScoped<SignalService>()
     .AddScoped<TIDHub>()
     .AddSingleton<DiscordService>()
