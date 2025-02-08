@@ -58,6 +58,7 @@ dataSourceBuilder.MapEnum<NR>();
 dataSourceBuilder.MapEnum<NRC>();
 dataSourceBuilder.MapEnum<ObjectType>();
 dataSourceBuilder.MapEnum<SignalIndication>();
+dataSourceBuilder.MapEnum<LockConditionType>();
 var dataSource = dataSourceBuilder.Build();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
