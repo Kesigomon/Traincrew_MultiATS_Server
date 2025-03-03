@@ -228,7 +228,7 @@ builder.Services.AddAuthorizationBuilder()
             Condition = role => role.IsCommander || role.IsDriverManager
         });
     })
-    .AddPolicy("InterlockingConsolePolicy", policy =>
+    .AddPolicy("InterlockingPolicy", policy =>
     {
         policy.Requirements.Add(new DiscordRoleRequirement
         {
