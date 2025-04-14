@@ -20,6 +20,7 @@ public class TrainHub(
 {
     public async Task<DataFromServer> SendData_ATS(DataToServer clientData)
     {
+        Console.WriteLine($"{clientData.DiaName} train data received");
         // Todo: TrainServiceにロジックもろとも移行する
         DataFromServer serverData = new DataFromServer();
         // 軌道回路情報の更新
