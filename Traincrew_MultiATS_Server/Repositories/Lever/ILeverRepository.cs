@@ -2,7 +2,9 @@ namespace Traincrew_MultiATS_Server.Repositories.Lever;
 
 public interface ILeverRepository
 {
-    Task<Models.Lever?> GetLeverByNameWitState(string name);
-    
+    Task<Models.Lever?> GetLeverByNameWithState(string name);
+
+    Task<List<ulong>?> GetAllIds();
+
     Task<List<ulong>> GetIdsBySwitchingMachineIds(List<ulong> ids);
 }

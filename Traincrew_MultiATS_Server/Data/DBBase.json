@@ -3908,399 +3908,627 @@
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "JR浜園上り出発4R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "JR浜園下り出発3L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "JR浜園下り出発4L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "JR浜園場内1L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "JR浜園場内2L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三石上り出発14R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三石上り出発15R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三石上り場内12R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三石上り場内13R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三石下り出発12L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三石下り出発13L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三石下り場内14L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三石下り場内15L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三郷上り出発13R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三郷上り場内12R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三郷下り出発12L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "三郷下り場内14L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上吉沢上り出発14R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上吉沢上り出発15R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上吉沢上り場内12R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上吉沢上り場内13R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上吉沢下り出発12L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上吉沢下り出発13L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上吉沢下り場内14L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上吉沢下り場内15L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢上り出発14R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢上り出発14R中継",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢上り出発15R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢上り場内12R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢上り場内13R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢下り出発12L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢下り出発13L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢下り場内14L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下吉沢下り場内15L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "二木戸上り出発13R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "二木戸上り場内12R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "二木戸下り出発12L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "二木戸下り場内14L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "名田上り出発14R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "名田上り出発15R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "名田上り場内12R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "名田上り場内13R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "名田下り出発12L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "名田下り出発13L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "名田下り場内14L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "名田下り場内15L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路上り出発4L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路上り出発5L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路上り場内8L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路上り場内9L",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路上り場内10LB",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路上り場内10LC",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路下り出発6R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路下り出発7R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路下り場内2R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大路下り場内3R",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺上り出発7R",
@@ -4311,7 +4539,11 @@
             ],
             "RouteNames": [
                 "TH65_7R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺上り出発8R",
@@ -4322,7 +4554,11 @@
             ],
             "RouteNames": [
                 "TH65_8R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺上り出発9R",
@@ -4333,7 +4569,11 @@
             ],
             "RouteNames": [
                 "TH65_9R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺上り出発10R",
@@ -4344,7 +4584,11 @@
             ],
             "RouteNames": [
                 "TH65_10R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺上り場内1R",
@@ -4359,7 +4603,11 @@
                 "TH65_1RTA",
                 "TH65_1RTB",
                 "TH65_1RTC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺上り場内2R",
@@ -4371,7 +4619,11 @@
             ],
             "RouteNames": [
                 "TH65_2R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺上り場内3R",
@@ -4383,7 +4635,11 @@
             ],
             "RouteNames": [
                 "TH65_3R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺上り場内4R",
@@ -4395,7 +4651,11 @@
             ],
             "RouteNames": [
                 "TH65_4R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺下り出発5L",
@@ -4407,7 +4667,11 @@
             ],
             "RouteNames": [
                 "TH65_5L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺下り出発6L",
@@ -4419,7 +4683,11 @@
             ],
             "RouteNames": [
                 "TH65_6L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺下り場内11L",
@@ -4430,7 +4698,11 @@
             ],
             "RouteNames": [
                 "TH65_11L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺下り場内12L",
@@ -4441,7 +4713,11 @@
             ],
             "RouteNames": [
                 "TH65_12L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺下り場内13LC",
@@ -4452,7 +4728,11 @@
             ],
             "RouteNames": [
                 "TH65_13LSC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺下り場内13LD",
@@ -4463,7 +4743,11 @@
             ],
             "RouteNames": [
                 "TH65_13LSD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺下り場内13L中継",
@@ -4476,7 +4760,11 @@
             "RouteNames": [
                 "TH65_13LSC",
                 "TH65_13LSD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換21R",
@@ -4486,7 +4774,11 @@
             "RouteNames": [
                 "TH65_21RX",
                 "TH65_21RY"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換22R",
@@ -4499,7 +4791,11 @@
                 "TH65_22RX",
                 "TH65_22RY",
                 "TH65_22RE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換23R",
@@ -4512,7 +4808,11 @@
                 "TH65_23RX",
                 "TH65_23RY",
                 "TH65_23RE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換24R",
@@ -4525,7 +4825,11 @@
                 "TH65_24RX",
                 "TH65_24RY",
                 "TH65_24RE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換25R",
@@ -4538,7 +4842,11 @@
                 "TH65_25RX",
                 "TH65_25RY",
                 "TH65_25RE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換26R",
@@ -4551,7 +4859,11 @@
                 "TH65_26RX",
                 "TH65_26RY",
                 "TH65_26RE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換27L",
@@ -4560,7 +4872,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH65_27L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換28L",
@@ -4569,7 +4885,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH65_28L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換29L",
@@ -4585,7 +4905,11 @@
                 "TH65_29LSD",
                 "TH65_29L5",
                 "TH65_29L6"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換30R",
@@ -4594,7 +4918,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH65_30R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換31L",
@@ -4611,7 +4939,11 @@
                 "TH65_31LSD",
                 "TH65_31L5",
                 "TH65_31L6"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "大道寺入換32L",
@@ -4630,105 +4962,165 @@
                 "TH65_32LE",
                 "TH65_32L5",
                 "TH65_32L6"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路上り出発4L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路上り出発5L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路上り場内10L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路上り場内11L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路上り場内12LC",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路上り場内12LD",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路下り出発6R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路下り出発7R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路下り出発8R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路下り出発9R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路下り場内1RA",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路下り場内1RB",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路下り場内2R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新大路下り場内3R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎上り出発6R",
@@ -4739,7 +5131,11 @@
             ],
             "RouteNames": [
                 "TH67_6R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎上り出発7R",
@@ -4750,7 +5146,11 @@
             ],
             "RouteNames": [
                 "TH67_7R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎上り出発8R",
@@ -4761,7 +5161,11 @@
             ],
             "RouteNames": [
                 "TH67_8R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎上り出発9R",
@@ -4772,7 +5176,11 @@
             ],
             "RouteNames": [
                 "TH67_9R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎上り場内1RA",
@@ -4783,7 +5191,11 @@
             ],
             "RouteNames": [
                 "TH67_1RA"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎上り場内1RB",
@@ -4794,7 +5206,11 @@
             ],
             "RouteNames": [
                 "TH67_1RB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎下り出発2L",
@@ -4805,7 +5221,11 @@
             ],
             "RouteNames": [
                 "TH67_2L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎下り出発3L",
@@ -4816,7 +5236,11 @@
             ],
             "RouteNames": [
                 "TH67_3L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎下り場内4L",
@@ -4827,7 +5251,11 @@
             ],
             "RouteNames": [
                 "TH67_4L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎下り場内5L",
@@ -4838,7 +5266,11 @@
             ],
             "RouteNames": [
                 "TH67_5L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎下り場内10LC",
@@ -4849,7 +5281,11 @@
             ],
             "RouteNames": [
                 "TH67_10LSC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎下り場内10LD",
@@ -4860,7 +5296,11 @@
             ],
             "RouteNames": [
                 "TH67_10LSD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎入換21L",
@@ -4869,7 +5309,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH67_21L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎入換22L",
@@ -4878,7 +5322,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH67_22L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎入換23R",
@@ -4887,7 +5335,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH67_23R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎入換24R",
@@ -4896,7 +5348,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH67_24R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "新野崎入換25L",
@@ -4909,7 +5365,11 @@
             "RouteNames": [
                 "TH67_25LC",
                 "TH67_25LD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "日野森上り出発5R",
@@ -4920,7 +5380,11 @@
             ],
             "RouteNames": [
                 "TH61_5R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "日野森上り場内2RA",
@@ -4929,7 +5393,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH61_2RA"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "日野森上り場内2RB",
@@ -4940,7 +5408,11 @@
             ],
             "RouteNames": [
                 "TH61_2RB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "日野森下り出発3L",
@@ -4951,7 +5423,11 @@
             ],
             "RouteNames": [
                 "TH61_3L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "日野森下り出発4L",
@@ -4962,7 +5438,11 @@
             ],
             "RouteNames": [
                 "TH61_4L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "日野森下り場内6L",
@@ -4973,70 +5453,110 @@
             ],
             "RouteNames": [
                 "TH61_6L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井上り出発5R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井上り出発6R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井上り出発7R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井上り場内1R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井下り出発2L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井下り出発3L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井下り出発4L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井下り場内8L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "東井下り場内9L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越上り出発14R",
@@ -5047,7 +5567,11 @@
             ],
             "RouteNames": [
                 "TH63_14R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越上り出発15R",
@@ -5058,7 +5582,11 @@
             ],
             "RouteNames": [
                 "TH63_15R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越上り出発15R中継",
@@ -5069,7 +5597,11 @@
             ],
             "RouteNames": [
                 "TH63_15R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越上り場内12R",
@@ -5080,7 +5612,11 @@
             ],
             "RouteNames": [
                 "TH63_12R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越上り場内13R",
@@ -5091,7 +5627,11 @@
             ],
             "RouteNames": [
                 "TH63_13R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越下り出発12L",
@@ -5102,7 +5642,11 @@
             ],
             "RouteNames": [
                 "TH63_12L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越下り出発13L",
@@ -5113,7 +5657,11 @@
             ],
             "RouteNames": [
                 "TH63_13L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越下り出発13L中継",
@@ -5124,7 +5672,11 @@
             ],
             "RouteNames": [
                 "TH63_13L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越下り場内14L",
@@ -5135,7 +5687,11 @@
             ],
             "RouteNames": [
                 "TH63_14L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "水越下り場内15L",
@@ -5146,7 +5702,11 @@
             ],
             "RouteNames": [
                 "TH63_15L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原信号場入換11R",
@@ -5157,7 +5717,11 @@
             ],
             "RouteNames": [
                 "TH66S_11R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原入換13R",
@@ -5167,7 +5731,11 @@
             "RouteNames": [
                 "TH66S_13RA",
                 "TH66S_13RB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原入換15L",
@@ -5186,7 +5754,11 @@
                 "TH66S_15L8",
                 "TH66S_15L9",
                 "TH66S_15L13"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原入換16L",
@@ -5205,7 +5777,11 @@
                 "TH66S_16L8",
                 "TH66S_16L9",
                 "TH66S_16L13"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区上り出発2R",
@@ -5216,7 +5792,11 @@
             ],
             "RouteNames": [
                 "TH66S_2R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区上り場内1RA",
@@ -5225,7 +5805,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH66S_1RA"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区上り場内1RB",
@@ -5234,7 +5818,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH66S_1RB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区上り場内1RC",
@@ -5245,25 +5833,41 @@
             ],
             "RouteNames": [
                 "TH66S_1RC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区下り出発3L",
             "phase": 1,
             "TypeName": "3灯式",
-            "NextSignalNames": [],
+            "NextSignalNames": [
+                "下り閉塞151"
+            ],
             "RouteNames": [
                 "TH66S_3L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区下り出発4L",
             "phase": 1,
             "TypeName": "3灯式",
-            "NextSignalNames": [],
+            "NextSignalNames": [
+                "下り閉塞151"
+            ],
             "RouteNames": [
                 "TH66S_4L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区下り場内5LD",
@@ -5272,7 +5876,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH66S_5LD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区下り場内5LE",
@@ -5283,14 +5891,22 @@
             ],
             "RouteNames": [
                 "TH66S_5LE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "江ノ原検車区内入換",
             "phase": 1,
             "TypeName": "入換信号機",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎上り出発4R",
@@ -5301,7 +5917,11 @@
             ],
             "RouteNames": [
                 "TH71_4R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎上り出発5R",
@@ -5312,7 +5932,11 @@
             ],
             "RouteNames": [
                 "TH71_5R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎上り場内1RA",
@@ -5323,7 +5947,11 @@
             ],
             "RouteNames": [
                 "TH71_1RA"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎上り場内1RB",
@@ -5334,7 +5962,11 @@
             ],
             "RouteNames": [
                 "TH71_1RB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎上り場内1R中継",
@@ -5347,7 +5979,11 @@
             "RouteNames": [
                 "TH71_1RA",
                 "TH71_1RB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎下り出発2L",
@@ -5358,7 +5994,11 @@
             ],
             "RouteNames": [
                 "TH71_2L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎下り出発2L中継",
@@ -5369,7 +6009,11 @@
             ],
             "RouteNames": [
                 "TH71_2L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎下り出発3L",
@@ -5380,7 +6024,11 @@
             ],
             "RouteNames": [
                 "TH71_3L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎上り出発5R中継",
@@ -5391,7 +6039,11 @@
             ],
             "RouteNames": [
                 "TH71_5R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎下り場内6LC",
@@ -5402,7 +6054,11 @@
             ],
             "RouteNames": [
                 "TH71_6LC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎下り場内6LD",
@@ -5413,7 +6069,11 @@
             ],
             "RouteNames": [
                 "TH71_6LD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "津崎下り場内6L中継",
@@ -5426,7 +6086,11 @@
             "RouteNames": [
                 "TH71_6LC",
                 "TH71_6LD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園上り出発3R中継",
@@ -5437,7 +6101,11 @@
             ],
             "RouteNames": [
                 "TH70_3R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園上り出発3R",
@@ -5448,7 +6116,11 @@
             ],
             "RouteNames": [
                 "TH70_3R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園上り出発4R",
@@ -5459,7 +6131,11 @@
             ],
             "RouteNames": [
                 "TH70_4R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園上り場内1R",
@@ -5470,7 +6146,11 @@
             ],
             "RouteNames": [
                 "TH70_1R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園上り場内1R中継",
@@ -5481,7 +6161,11 @@
             ],
             "RouteNames": [
                 "TH70_1R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園下り出発2L",
@@ -5492,7 +6176,11 @@
             ],
             "RouteNames": [
                 "TH70_2L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園下り出発2L中継",
@@ -5503,7 +6191,11 @@
             ],
             "RouteNames": [
                 "TH70_2L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園下り場内5L",
@@ -5514,7 +6206,11 @@
             ],
             "RouteNames": [
                 "TH70_5L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園入換11R",
@@ -5523,7 +6219,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH70_11R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "浜園入換12L",
@@ -5532,21 +6232,33 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH70_12L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "珠川上り出発11R",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "珠川下り出発11L",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江上り出発14R",
@@ -5557,7 +6269,11 @@
             ],
             "RouteNames": [
                 "TH64_14R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江上り出発15R",
@@ -5568,7 +6284,11 @@
             ],
             "RouteNames": [
                 "TH64_15R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江上り出発15R中継",
@@ -5579,7 +6299,11 @@
             ],
             "RouteNames": [
                 "TH64_15R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江上り場内12R",
@@ -5590,7 +6314,11 @@
             ],
             "RouteNames": [
                 "TH64_12R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江上り場内13R",
@@ -5601,7 +6329,11 @@
             ],
             "RouteNames": [
                 "TH64_13R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江下り出発12L",
@@ -5612,7 +6344,11 @@
             ],
             "RouteNames": [
                 "TH64_12L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江下り出発13L",
@@ -5623,7 +6359,11 @@
             ],
             "RouteNames": [
                 "TH64_13L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江下り出発13L中継",
@@ -5634,7 +6374,11 @@
             ],
             "RouteNames": [
                 "TH64_13L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江下り場内14L",
@@ -5645,7 +6389,11 @@
             ],
             "RouteNames": [
                 "TH64_14L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "藤江下り場内15L",
@@ -5656,7 +6404,11 @@
             ],
             "RouteNames": [
                 "TH64_15L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "西赤山上り出発13R",
@@ -5667,7 +6419,11 @@
             ],
             "RouteNames": [
                 "TH59_13R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "西赤山上り場内11R",
@@ -5678,7 +6434,11 @@
             ],
             "RouteNames": [
                 "TH59_11R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "西赤山下り出発12L",
@@ -5689,7 +6449,11 @@
             ],
             "RouteNames": [
                 "TH59_12L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "西赤山下り場内13L",
@@ -5700,7 +6464,11 @@
             ],
             "RouteNames": [
                 "TH59_13L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町上り出発6R",
@@ -5711,7 +6479,11 @@
             ],
             "RouteNames": [
                 "TH58_6R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町上り出発7R",
@@ -5722,7 +6494,11 @@
             ],
             "RouteNames": [
                 "TH58_7R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町上り出発8R",
@@ -5733,7 +6509,11 @@
             ],
             "RouteNames": [
                 "TH58_8R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町上り場内2R",
@@ -5748,7 +6528,11 @@
                 "TH58_2RA",
                 "TH58_2RB",
                 "TH58_2RC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町下り出発3L",
@@ -5759,7 +6543,11 @@
             ],
             "RouteNames": [
                 "TH58_3L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町下り出発4L",
@@ -5770,7 +6558,11 @@
             ],
             "RouteNames": [
                 "TH58_4L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町下り出発5L",
@@ -5781,7 +6573,11 @@
             ],
             "RouteNames": [
                 "TH58_5L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町下り場内9L",
@@ -5796,7 +6592,11 @@
                 "TH58_9LA",
                 "TH58_9LB",
                 "TH58_9LC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町入換31R",
@@ -5806,7 +6606,11 @@
             "RouteNames": [
                 "TH58_31RD",
                 "TH58_31RE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町入換32L",
@@ -5815,7 +6619,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH58_32L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "赤山町入換33L",
@@ -5824,7 +6632,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH58_33L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "館浜上り出発1R",
@@ -5835,7 +6647,11 @@
             ],
             "RouteNames": [
                 "TH76_1R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "館浜上り出発2R",
@@ -5846,7 +6662,11 @@
             ],
             "RouteNames": [
                 "TH76_2R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "館浜上り出発3R",
@@ -5857,7 +6677,11 @@
             ],
             "RouteNames": [
                 "TH76_3R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "館浜上り出発4R",
@@ -5868,7 +6692,11 @@
             ],
             "RouteNames": [
                 "TH76_4R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "館浜下り場内5L",
@@ -5880,7 +6708,11 @@
                 "TH76_5LB",
                 "TH76_5LC",
                 "TH76_5LD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "館浜下り場内5L中継2",
@@ -5894,7 +6726,11 @@
                 "TH76_5LB",
                 "TH76_5LC",
                 "TH76_5LD"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野上り出発7R",
@@ -5905,7 +6741,11 @@
             ],
             "RouteNames": [
                 "TH75_7R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野上り出発8R",
@@ -5916,7 +6756,11 @@
             ],
             "RouteNames": [
                 "TH75_8R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野上り出発8R中継",
@@ -5927,7 +6771,11 @@
             ],
             "RouteNames": [
                 "TH75_8R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野上り場内1RD",
@@ -5937,7 +6785,11 @@
             "RouteNames": [
                 "TH75_1RD5",
                 "TH75_1RD6"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野上り場内1RE",
@@ -5949,7 +6801,11 @@
             ],
             "RouteNames": [
                 "TH75_1RE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野上り場内5RA",
@@ -5960,7 +6816,11 @@
             ],
             "RouteNames": [
                 "TH75_5RA"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野上り場内5RB",
@@ -5971,7 +6831,11 @@
             ],
             "RouteNames": [
                 "TH75_5RB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野下り出発3L",
@@ -5982,7 +6846,11 @@
             ],
             "RouteNames": [
                 "TH75_3L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野下り出発4L",
@@ -5993,7 +6861,11 @@
             ],
             "RouteNames": [
                 "TH75_4L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野下り出発6L",
@@ -6004,7 +6876,11 @@
             ],
             "RouteNames": [
                 "TH75_6L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野下り出発6L中継",
@@ -6015,7 +6891,11 @@
             ],
             "RouteNames": [
                 "TH75_6L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野下り場内9LB",
@@ -6025,7 +6905,11 @@
             "RouteNames": [
                 "TH75_9LA",
                 "TH75_9LB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野下り場内9LC",
@@ -6036,7 +6920,11 @@
             ],
             "RouteNames": [
                 "TH75_9LC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野下り場内9L中継",
@@ -6050,7 +6938,11 @@
                 "TH75_9LA",
                 "TH75_9LB",
                 "TH75_9LC"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野下り第二出発2L",
@@ -6061,7 +6953,11 @@
             ],
             "RouteNames": [
                 "TH75_2L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換11R",
@@ -6076,7 +6972,11 @@
                 "TH75_11RD5",
                 "TH75_11RD6",
                 "TH75_11RE"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換12L",
@@ -6085,7 +6985,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH75_12L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換13R",
@@ -6095,7 +6999,11 @@
             "RouteNames": [
                 "TH75_13RA",
                 "TH75_13RB"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換14L",
@@ -6106,7 +7014,11 @@
             ],
             "RouteNames": [
                 "TH75_14L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換15L",
@@ -6121,7 +7033,11 @@
                 "TH75_15L4",
                 "TH75_15LD5",
                 "TH75_15LD6"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換24R",
@@ -6130,7 +7046,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH75_24R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換25R",
@@ -6139,7 +7059,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH75_25R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換26R",
@@ -6148,7 +7072,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH75_26R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換27R",
@@ -6163,7 +7091,11 @@
                 "TH75_27R4",
                 "TH75_27RD5",
                 "TH75_27RD6"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換28R",
@@ -6176,7 +7108,11 @@
             "RouteNames": [
                 "TH75_28RD5",
                 "TH75_28RD6"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換29R",
@@ -6189,7 +7125,11 @@
             "RouteNames": [
                 "TH75_29RD5",
                 "TH75_29RD6"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換34L",
@@ -6198,7 +7138,11 @@
             "NextSignalNames": [],
             "RouteNames": [
                 "TH75_34L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換35L",
@@ -6210,7 +7154,11 @@
                 "TH75_35L8",
                 "TH75_35L9",
                 "TH75_35LT"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "駒野入換36L",
@@ -6222,7 +7170,11 @@
                 "TH75_36L8",
                 "TH75_36L9",
                 "TH75_36LT"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "高見沢上り出発14R",
@@ -6233,7 +7185,11 @@
             ],
             "RouteNames": [
                 "TH62_14R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "高見沢上り出発15R",
@@ -6244,7 +7200,11 @@
             ],
             "RouteNames": [
                 "TH62_15R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "高見沢上り場内12R",
@@ -6255,7 +7215,11 @@
             ],
             "RouteNames": [
                 "TH62_12R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "高見沢上り場内13R",
@@ -6266,7 +7230,11 @@
             ],
             "RouteNames": [
                 "TH62_13R"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "高見沢下り出発12L",
@@ -6277,7 +7245,11 @@
             ],
             "RouteNames": [
                 "TH62_12L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "高見沢下り出発13L",
@@ -6288,7 +7260,11 @@
             ],
             "RouteNames": [
                 "TH62_13L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "高見沢下り場内14L",
@@ -6300,7 +7276,11 @@
             ],
             "RouteNames": [
                 "TH62_14L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "高見沢下り場内15L",
@@ -6312,7 +7292,11 @@
             ],
             "RouteNames": [
                 "TH62_15L"
-            ]
+            ],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞6",
@@ -6321,7 +7305,11 @@
             "NextSignalNames": [
                 "上り閉塞8"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞8中継",
@@ -6330,7 +7318,11 @@
             "NextSignalNames": [
                 "上り閉塞8"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞8",
@@ -6340,7 +7332,11 @@
                 "駒野上り場内1RD",
                 "駒野上り場内1RE"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞26",
@@ -6349,7 +7345,11 @@
             "NextSignalNames": [
                 "上り閉塞30"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞30",
@@ -6358,7 +7358,11 @@
             "NextSignalNames": [
                 "上り閉塞36"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞36",
@@ -6367,7 +7371,11 @@
             "NextSignalNames": [
                 "上り閉塞42"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞42中継",
@@ -6376,7 +7384,11 @@
             "NextSignalNames": [
                 "上り閉塞42"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞42",
@@ -6385,7 +7397,11 @@
             "NextSignalNames": [
                 "上り閉塞48"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞48中継",
@@ -6394,7 +7410,11 @@
             "NextSignalNames": [
                 "上り閉塞48"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞48",
@@ -6403,7 +7423,11 @@
             "NextSignalNames": [
                 "上り閉塞56"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞56",
@@ -6412,7 +7436,11 @@
             "NextSignalNames": [
                 "上り閉塞62"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞62",
@@ -6421,7 +7449,11 @@
             "NextSignalNames": [
                 "上り閉塞68"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞68",
@@ -6430,7 +7462,11 @@
             "NextSignalNames": [
                 "上り閉塞74"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞74",
@@ -6440,7 +7476,11 @@
                 "津崎上り場内1RA",
                 "津崎上り場内1RB"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞86",
@@ -6449,7 +7489,11 @@
             "NextSignalNames": [
                 "上り閉塞92"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞92",
@@ -6458,7 +7502,11 @@
             "NextSignalNames": [
                 "浜園上り場内1R"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞102",
@@ -6467,7 +7515,11 @@
             "NextSignalNames": [
                 "上り閉塞108"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞108",
@@ -6476,7 +7528,11 @@
             "NextSignalNames": [
                 "上り閉塞114"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞114",
@@ -6485,7 +7541,11 @@
             "NextSignalNames": [
                 "上り閉塞120"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞120",
@@ -6494,7 +7554,11 @@
             "NextSignalNames": [
                 "上り閉塞124"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞124",
@@ -6504,7 +7568,11 @@
                 "新野崎上り場内1RA",
                 "新野崎上り場内1RB"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞124中継",
@@ -6513,7 +7581,11 @@
             "NextSignalNames": [
                 "上り閉塞124"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞136",
@@ -6522,7 +7594,11 @@
             "NextSignalNames": [
                 "上り閉塞142"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞142",
@@ -6531,7 +7607,11 @@
             "NextSignalNames": [
                 "上り閉塞146"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞142中継",
@@ -6540,7 +7620,11 @@
             "NextSignalNames": [
                 "上り閉塞142"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞146",
@@ -6551,7 +7635,11 @@
                 "江ノ原検車区上り場内1RB",
                 "江ノ原検車区上り場内1RC"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞156",
@@ -6560,25 +7648,37 @@
             "NextSignalNames": [
                 "大道寺上り場内1R"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞166",
             "phase": 1,
-            "TypeName": "4灯YG式",
+            "TypeName": "3灯式",
             "NextSignalNames": [
                 "上り閉塞172"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH65_14F",
+            "DirectionRouteRight": "TH64_11F",
+            "Direction": "R",
+            "TrackCircuitName": "DF1T"
         },
         {
             "Name": "上り閉塞166中継",
             "phase": 1,
-            "TypeName": "4灯YG式",
+            "TypeName": "中継（色灯3灯式）",
             "NextSignalNames": [
                 "上り閉塞166"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞172",
@@ -6588,7 +7688,11 @@
                 "藤江上り場内12R",
                 "藤江上り場内13R"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH65_14F",
+            "DirectionRouteRight": "TH64_11F",
+            "Direction": "R",
+            "TrackCircuitName": "DF2T"
         },
         {
             "Name": "上り閉塞188",
@@ -6598,7 +7702,11 @@
                 "水越上り場内12R",
                 "水越上り場内13R"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH64_16F",
+            "DirectionRouteRight": "TH63_11F",
+            "Direction": "R",
+            "TrackCircuitName": "FMT"
         },
         {
             "Name": "上り閉塞200",
@@ -6607,7 +7715,11 @@
             "NextSignalNames": [
                 "上り閉塞204"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH63_16F",
+            "DirectionRouteRight": "TH62_11F",
+            "Direction": "R",
+            "TrackCircuitName": "MT1T"
         },
         {
             "Name": "上り閉塞204",
@@ -6617,7 +7729,11 @@
                 "高見沢上り出発14R",
                 "高見沢上り出発15R"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH63_16F",
+            "DirectionRouteRight": "TH62_11F",
+            "Direction": "R",
+            "TrackCircuitName": "MT2T"
         },
         {
             "Name": "上り閉塞218",
@@ -6626,7 +7742,11 @@
             "NextSignalNames": [
                 "上り閉塞224"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH62_16F",
+            "DirectionRouteRight": "TH61_1F",
+            "Direction": "R",
+            "TrackCircuitName": "TH1T"
         },
         {
             "Name": "上り閉塞224",
@@ -6636,7 +7756,11 @@
                 "日野森上り場内2RA",
                 "日野森上り場内2RB"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH62_16F",
+            "DirectionRouteRight": "TH61_1F",
+            "Direction": "R",
+            "TrackCircuitName": "TH2T"
         },
         {
             "Name": "上り閉塞238",
@@ -6645,7 +7769,11 @@
             "NextSignalNames": [
                 "上り閉塞242"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞242",
@@ -6654,7 +7782,11 @@
             "NextSignalNames": [
                 "上り閉塞246"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞246",
@@ -6663,7 +7795,11 @@
             "NextSignalNames": [
                 "上り閉塞250"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞250",
@@ -6672,7 +7808,11 @@
             "NextSignalNames": [
                 "西赤山上り場内11R"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞258",
@@ -6681,7 +7821,11 @@
             "NextSignalNames": [
                 "上り閉塞268"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH59_14F",
+            "DirectionRouteRight": "TH58_1F",
+            "Direction": "R",
+            "TrackCircuitName": "NA1T"
         },
         {
             "Name": "上り閉塞268",
@@ -6690,140 +7834,220 @@
             "NextSignalNames": [
                 "赤山町上り場内2R"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH59_14F",
+            "DirectionRouteRight": "TH58_1F",
+            "Direction": "R",
+            "TrackCircuitName": "NA2T"
         },
         {
             "Name": "上り閉塞282",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞288",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞306",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞312",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞314",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞320",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞324",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞334",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞336",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞346",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞360",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞372",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞384",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞398",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞404",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞406",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞416",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞420",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "上り閉塞424",
             "phase": 1,
             "TypeName": "なし",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞7",
@@ -6832,7 +8056,11 @@
             "NextSignalNames": [
                 "館浜下り場内5L"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞7中継",
@@ -6841,7 +8069,11 @@
             "NextSignalNames": [
                 "下り閉塞7"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞9",
@@ -6850,7 +8082,11 @@
             "NextSignalNames": [
                 "下り閉塞7"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞27",
@@ -6860,7 +8096,11 @@
                 "駒野下り場内9LB",
                 "駒野下り場内9LC"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞35",
@@ -6869,7 +8109,11 @@
             "NextSignalNames": [
                 "下り閉塞27"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞41",
@@ -6878,7 +8122,11 @@
             "NextSignalNames": [
                 "下り閉塞35"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞45",
@@ -6887,7 +8135,11 @@
             "NextSignalNames": [
                 "下り閉塞41"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞49",
@@ -6896,7 +8148,11 @@
             "NextSignalNames": [
                 "下り閉塞45"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞55",
@@ -6905,7 +8161,11 @@
             "NextSignalNames": [
                 "下り閉塞49"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞59",
@@ -6914,7 +8174,11 @@
             "NextSignalNames": [
                 "下り閉塞55"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞67",
@@ -6923,7 +8187,11 @@
             "NextSignalNames": [
                 "下り閉塞59"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞71",
@@ -6932,7 +8200,11 @@
             "NextSignalNames": [
                 "下り閉塞67"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞75",
@@ -6941,7 +8213,11 @@
             "NextSignalNames": [
                 "下り閉塞71"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞89",
@@ -6951,7 +8227,11 @@
                 "津崎下り場内6LC",
                 "津崎下り場内6LD"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞103",
@@ -6960,7 +8240,11 @@
             "NextSignalNames": [
                 "浜園下り場内5L"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞105",
@@ -6969,7 +8253,11 @@
             "NextSignalNames": [
                 "下り閉塞103"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞111",
@@ -6978,7 +8266,11 @@
             "NextSignalNames": [
                 "下り閉塞105"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞117",
@@ -6987,7 +8279,11 @@
             "NextSignalNames": [
                 "下り閉塞111"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞117中継",
@@ -6996,7 +8292,11 @@
             "NextSignalNames": [
                 "下り閉塞117"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞123",
@@ -7005,7 +8305,11 @@
             "NextSignalNames": [
                 "下り閉塞117"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞137",
@@ -7015,7 +8319,11 @@
                 "新野崎下り場内10LC",
                 "新野崎下り場内10LD"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞143",
@@ -7024,7 +8332,11 @@
             "NextSignalNames": [
                 "下り閉塞137"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞145",
@@ -7033,7 +8345,11 @@
             "NextSignalNames": [
                 "下り閉塞143"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞151",
@@ -7042,7 +8358,11 @@
             "NextSignalNames": [
                 "下り閉塞145"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞171",
@@ -7052,7 +8372,11 @@
                 "大道寺下り場内13LC",
                 "大道寺下り場内13LD"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH65_14F",
+            "DirectionRouteRight": "TH64_11F",
+            "Direction": "L",
+            "TrackCircuitName": "DF1T"
         },
         {
             "Name": "下り閉塞177",
@@ -7061,7 +8385,11 @@
             "NextSignalNames": [
                 "下り閉塞171"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH65_14F",
+            "DirectionRouteRight": "TH64_11F",
+            "Direction": "L",
+            "TrackCircuitName": "DF2T"
         },
         {
             "Name": "下り閉塞193",
@@ -7071,7 +8399,11 @@
                 "藤江下り場内14L",
                 "藤江下り場内15L"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH64_16F",
+            "DirectionRouteRight": "TH63_11F",
+            "Direction": "L",
+            "TrackCircuitName": "FMT"
         },
         {
             "Name": "下り閉塞203",
@@ -7081,7 +8413,11 @@
                 "水越下り場内15L",
                 "水越下り場内14L"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH63_16F",
+            "DirectionRouteRight": "TH62_11F",
+            "Direction": "L",
+            "TrackCircuitName": "MT1T"
         },
         {
             "Name": "下り閉塞209",
@@ -7090,7 +8426,11 @@
             "NextSignalNames": [
                 "下り閉塞203"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH63_16F",
+            "DirectionRouteRight": "TH62_11F",
+            "Direction": "L",
+            "TrackCircuitName": "MT2T"
         },
         {
             "Name": "下り閉塞223",
@@ -7100,7 +8440,11 @@
                 "高見沢下り場内14L",
                 "高見沢下り場内15L"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH62_16F",
+            "DirectionRouteRight": "TH61_1F",
+            "Direction": "L",
+            "TrackCircuitName": "TH1T"
         },
         {
             "Name": "下り閉塞227",
@@ -7109,7 +8453,11 @@
             "NextSignalNames": [
                 "下り閉塞223"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH62_16F",
+            "DirectionRouteRight": "TH61_1F",
+            "Direction": "L",
+            "TrackCircuitName": "TH2T"
         },
         {
             "Name": "下り閉塞237",
@@ -7118,7 +8466,11 @@
             "NextSignalNames": [
                 "日野森下り場内6L"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞241",
@@ -7127,7 +8479,11 @@
             "NextSignalNames": [
                 "下り閉塞237"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞245",
@@ -7136,7 +8492,11 @@
             "NextSignalNames": [
                 "下り閉塞241"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞249",
@@ -7145,7 +8505,11 @@
             "NextSignalNames": [
                 "下り閉塞245"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞267",
@@ -7154,7 +8518,11 @@
             "NextSignalNames": [
                 "西赤山下り場内13L"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH59_14F",
+            "DirectionRouteRight": "TH58_1F",
+            "Direction": "L",
+            "TrackCircuitName": "NA1T"
         },
         {
             "Name": "下り閉塞277",
@@ -7163,7 +8531,11 @@
             "NextSignalNames": [
                 "下り閉塞267"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": "TH59_14F",
+            "DirectionRouteRight": "TH58_1F",
+            "Direction": "L",
+            "TrackCircuitName": "NA2T"
         },
         {
             "Name": "下り閉塞287",
@@ -7172,133 +8544,209 @@
             "NextSignalNames": [
                 "赤山町下り場内9L"
             ],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞295",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞305",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞311",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞313",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞317",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞323",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞333",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞335",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞341",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞351",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞365",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞377",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞389",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞397",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞403",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞405",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞419",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         },
         {
             "Name": "下り閉塞425",
             "phase": 1,
             "TypeName": "4灯YG式",
             "NextSignalNames": [],
-            "RouteNames": []
+            "RouteNames": [],
+            "DirectionRouteLeft": null,
+            "DirectionRouteRight": null,
+            "Direction": null,
+            "TrackCircuitName": null
         }
     ],
     "signalTypeList": [
@@ -7543,6 +8991,211 @@
             "SourceRouteName": "TH65_32LSD",
             "TargetRouteName": "TH65_28L",
             "LeverConditionName": ""
+        },
+        {
+            "SourceRouteName": "TH64_12L",
+            "TargetRouteName": "TH64_11L",
+            "LeverConditionName": "TH64_98N"
+        },
+        {
+            "SourceRouteName": "TH64_13L",
+            "TargetRouteName": "TH64_11L",
+            "LeverConditionName": "TH64_98N"
+        },
+        {
+            "SourceRouteName": "TH65_7R",
+            "TargetRouteName": "TH64_11R",
+            "LeverConditionName": "TH64_98N"
+        },
+        {
+            "SourceRouteName": "TH65_8R",
+            "TargetRouteName": "TH64_11R",
+            "LeverConditionName": "TH64_98N"
+        },
+        {
+            "SourceRouteName": "TH65_9R",
+            "TargetRouteName": "TH64_11R",
+            "LeverConditionName": "TH64_98N"
+        },
+        {
+            "SourceRouteName": "TH65_10R",
+            "TargetRouteName": "TH64_11R",
+            "LeverConditionName": "TH64_98N"
+        },
+        {
+            "SourceRouteName": "TH63_12L",
+            "TargetRouteName": "TH64_16L",
+            "LeverConditionName": "TH64_99N"
+        },
+        {
+            "SourceRouteName": "TH63_13L",
+            "TargetRouteName": "TH64_16L",
+            "LeverConditionName": "TH64_99N"
+        },
+        {
+            "SourceRouteName": "TH64_14R",
+            "TargetRouteName": "TH64_16R",
+            "LeverConditionName": "TH64_99N"
+        },
+        {
+            "SourceRouteName": "TH64_15R",
+            "TargetRouteName": "TH64_16R",
+            "LeverConditionName": "TH64_99N"
+        },
+        {
+            "SourceRouteName": "TH63_12L",
+            "TargetRouteName": "TH63_11L",
+            "LeverConditionName": "TH63_98N"
+        },
+        {
+            "SourceRouteName": "TH63_13L",
+            "TargetRouteName": "TH63_11L",
+            "LeverConditionName": "TH63_98N"
+        },
+        {
+            "SourceRouteName": "TH64_14R",
+            "TargetRouteName": "TH63_11R",
+            "LeverConditionName": "TH63_98N"
+        },
+        {
+            "SourceRouteName": "TH64_15R",
+            "TargetRouteName": "TH63_11R",
+            "LeverConditionName": "TH63_98N"
+        },
+        {
+            "SourceRouteName": "TH62_12L",
+            "TargetRouteName": "TH63_16L",
+            "LeverConditionName": "TH63_99N"
+        },
+        {
+            "SourceRouteName": "TH62_13L",
+            "TargetRouteName": "TH63_16L",
+            "LeverConditionName": "TH63_99N"
+        },
+        {
+            "SourceRouteName": "TH63_14R",
+            "TargetRouteName": "TH63_16R",
+            "LeverConditionName": "TH63_99N"
+        },
+        {
+            "SourceRouteName": "TH63_15R",
+            "TargetRouteName": "TH63_16R",
+            "LeverConditionName": "TH63_99N"
+        },
+        {
+            "SourceRouteName": "TH62_12L",
+            "TargetRouteName": "TH62_11L",
+            "LeverConditionName": "TH62_98N"
+        },
+        {
+            "SourceRouteName": "TH62_13L",
+            "TargetRouteName": "TH62_11L",
+            "LeverConditionName": "TH62_98N"
+        },
+        {
+            "SourceRouteName": "TH63_14R",
+            "TargetRouteName": "TH62_11R",
+            "LeverConditionName": "TH62_98N"
+        },
+        {
+            "SourceRouteName": "TH63_15R",
+            "TargetRouteName": "TH62_11R",
+            "LeverConditionName": "TH62_98N"
+        },
+        {
+            "SourceRouteName": "TH61_3L",
+            "TargetRouteName": "TH62_16L",
+            "LeverConditionName": "TH62_99N"
+        },
+        {
+            "SourceRouteName": "TH61_4L",
+            "TargetRouteName": "TH62_16L",
+            "LeverConditionName": "TH62_99N"
+        },
+        {
+            "SourceRouteName": "TH62_14R",
+            "TargetRouteName": "TH62_16R",
+            "LeverConditionName": "TH62_99N"
+        },
+        {
+            "SourceRouteName": "TH62_15R",
+            "TargetRouteName": "TH62_16R",
+            "LeverConditionName": "TH62_99N"
+        },
+        {
+            "SourceRouteName": "TH61_3L",
+            "TargetRouteName": "TH61_1L",
+            "LeverConditionName": "TH61_98N"
+        },
+        {
+            "SourceRouteName": "TH61_4L",
+            "TargetRouteName": "TH61_1L",
+            "LeverConditionName": "TH61_98N"
+        },
+        {
+            "SourceRouteName": "TH62_14R",
+            "TargetRouteName": "TH61_1R",
+            "LeverConditionName": "TH61_98N"
+        },
+        {
+            "SourceRouteName": "TH62_15R",
+            "TargetRouteName": "TH61_1R",
+            "LeverConditionName": "TH61_98N"
+        },
+        {
+            "SourceRouteName": "TH58_3L",
+            "TargetRouteName": "TH59_14L",
+            "LeverConditionName": "TH59_99N"
+        },
+        {
+            "SourceRouteName": "TH58_4L",
+            "TargetRouteName": "TH59_14L",
+            "LeverConditionName": "TH59_99N"
+        },
+        {
+            "SourceRouteName": "TH58_5L",
+            "TargetRouteName": "TH59_14L",
+            "LeverConditionName": "TH59_99N"
+        },
+        {
+            "SourceRouteName": "TH59_13R",
+            "TargetRouteName": "TH59_14R",
+            "LeverConditionName": "TH59_99N"
+        },
+        {
+            "SourceRouteName": "TH58_3L",
+            "TargetRouteName": "TH58_1L",
+            "LeverConditionName": "TH58_98N"
+        },
+        {
+            "SourceRouteName": "TH58_4L",
+            "TargetRouteName": "TH58_1L",
+            "LeverConditionName": "TH58_98N"
+        },
+        {
+            "SourceRouteName": "TH58_5L",
+            "TargetRouteName": "TH58_1L",
+            "LeverConditionName": "TH58_98N"
+        },
+        {
+            "SourceRouteName": "TH59_13R",
+            "TargetRouteName": "TH58_1R",
+            "LeverConditionName": "TH58_98N"
+        },
+        {
+            "SourceRouteName": "TH58_6R",
+            "TargetRouteName": "TH58_10L",
+            "LeverConditionName": "TH58_99N"
+        },
+        {
+            "SourceRouteName": "TH58_7R",
+            "TargetRouteName": "TH58_10L",
+            "LeverConditionName": "TH58_99N"
+        },
+        {
+            "SourceRouteName": "TH58_8R",
+            "TargetRouteName": "TH58_10L",
+            "LeverConditionName": "TH58_99N"
         }
     ]
 }
