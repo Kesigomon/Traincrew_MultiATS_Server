@@ -6,4 +6,5 @@ public interface ILeverRepository
 
     Task<List<ulong>?> GetAllIds();
 
+    Task<List<ulong>> GetIdsBySwitchingMachineIds(List<ulong> ids);
 }
